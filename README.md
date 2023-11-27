@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shihab Sarar Islam Rafid</h1>
 <h3 align="center">A partime developer and a fulltime problem solver from Bnagladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shihabsararrafid&label=Profile%20views&color=0e75b6&style=flat" alt="shihabsararrafid" /> </p>
+<p align="center" size="30%"> <img src="https://komarev.com/ghpvc/?username=shihabsararrafid&label=Profile%20views&color=0e75b6&style=flat" alt="shihabsararrafid" /> </p>
 <a align="center" href="https://app.daily.dev/shihabrafid"><img src="https://api.daily.dev/devcards/9bd70452d9554e658e21c0400037e373.png?r=8w8" width="400" alt="Sarar Rafid's Dev Card"/></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihabsararrafid" alt="shihabsararrafid" /></a> </p>
 
